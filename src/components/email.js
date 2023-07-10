@@ -38,7 +38,9 @@ const StyledLinkWrapper = styled.div`
 const Email = ({ isHome }) => (
   <Side isHome={isHome} orientation="right">
     <StyledLinkWrapper>
-      <a href={`mailto:${email}`}>{email}</a>
+      <a target="_blank" href="https://mail.google.com/mail/?view=cm&to=alokurmaliya0123@gmail.com" rel="noreferrer">
+        {email}
+      </a>
     </StyledLinkWrapper>
   </Side>
 );
