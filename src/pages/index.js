@@ -8,6 +8,8 @@ const StyledMainContainer = styled.main`
   counter-reset: section;
 `;
 
+require('events').EventEmitter.defaultMaxListeners = 20;
+
 const IndexPage = ({ location }) => (
   <Layout location={location}>
     <StyledMainContainer className="fillHeight">
