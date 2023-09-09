@@ -6,8 +6,8 @@ module.exports = {
     title: 'Alok Urmaliya',
     description:
       'Alok Urmaliya is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://github.com/alok-urmaliya', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    siteUrl: 'https://github.com/alok-urmaliya',
+    image: '/og.png',
     twitterUsername: '@alokurmalya',
   },
   plugins: [
