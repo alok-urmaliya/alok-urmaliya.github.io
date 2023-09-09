@@ -1,7 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/alok-urmaliya.github.io',
+  pathPrefix: '/gh-pages',
   siteMetadata: {
     title: 'Alok Urmaliya',
     description:
