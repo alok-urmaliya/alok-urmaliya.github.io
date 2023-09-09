@@ -1,7 +1,6 @@
 ---
 date: '2023-04-26'
 title: 'track-n-learn'
-cover: './track-n-learn.png'
 github: 'https://github.com/alok-urmaliya/track-n-learn'
 external: ''
 tech:

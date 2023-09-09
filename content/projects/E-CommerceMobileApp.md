@@ -1,7 +1,6 @@
 ---
 date: '2023-06-29'
 title: 'Shop-it'
-cover: './track-n-learn.png'
 github: 'https://github.com/alok-urmaliya/E-Commerce'
 external: ''
 tech:
