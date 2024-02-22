@@ -126,13 +126,13 @@ const About = () => {
   }, []);
 
   const skills = [
-    'C|C++',
     'C#',
     'ASP.NET CORE',
+    'python',
+    'django',
+    'React',
+    'GraphQl',
     'AWS',
-    '.NET MAUI',
-    'reactjs',
-    'REST API',
     'SQL Server | MySQL',
   ];
 
@@ -158,7 +158,9 @@ const About = () => {
                 Global Engineering College,Jabalpur
               </a>{' '}
               as a student and at
-              <a href="https://github.com/alok-urmaliya">Sumati.io</a> as a software developer.
+              <a href="https://github.com/alok-urmaliya">Sumati.io</a> /
+              <a href="https://thehotspring.com"> The Hotspring</a> as a Full-stack software
+              developer.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
