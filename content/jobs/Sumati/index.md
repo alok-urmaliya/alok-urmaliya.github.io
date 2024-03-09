@@ -7,7 +7,7 @@ range: 'March 2023 - December 2023'
 url: ''
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients.
-- Work alongside a great team of developers to lead the development, and architecture of innovative software solutions.
-- Collaborate with designers, project managers, and other developers to transform excellent business ideas into real life working applications.
-- Learn and implement software development methodologies and best practices.
+- Delivered high-quality, robust production code for a diverse array of projects for clients.
+- Worked alongside a great team of developers to lead the development, and architecture of innovative software solutions.
+- Collaborated with designers, project managers, and other developers to transform excellent business ideas into real life working applications.
+- Learned and implemented software development methodologies and best practices.

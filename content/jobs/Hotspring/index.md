@@ -7,5 +7,6 @@ range: 'December 2023 - Present'
 url: 'https://thehotspring.com/'
 ---
 
-- Learning and contributing on software solutions based on widely used technologies in the industry like Python, Django, Typescript, React and, Graphql.
-- Working from home, collaborating with team members located in different parts of the world.
+- Actively contributing to software solutions using Python, Django, Typescript, React, and GraphQL.
+- Collaborating remotely with global team members.
+- Implementing graphql queries, mutations and, subscriptions for efficient data management.
