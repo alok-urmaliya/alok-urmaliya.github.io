@@ -126,14 +126,14 @@ const About = () => {
   }, []);
 
   const skills = [
-    'C#',
-    'ASP.NET CORE',
     'python',
     'django',
     'React',
-    'GraphQl',
     'AWS',
-    'SQL Server | MySQL',
+    'C#',
+    'ASP.NET CORE',
+    'GraphQl',
+    'SQL Server | PostgreSQL',
   ];
 
   return (
@@ -145,7 +145,7 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Alok and I enjoy developing applications/websites that live on the
-              internet. I'm also a student currently in my final year pursuing B.Tech from
+              internet. I recently completed my B.Tech from{' '}
               <a href="https://www.globalengineeringcollege.com/">
                 Global Engineering College,Jabalpur
               </a>{' '}
@@ -155,12 +155,11 @@ const About = () => {
             <p>
               My portfolio showcases a collection of my projects which i have built at{' '}
               <a href="https://www.globalengineeringcollege.com/">
-                Global Engineering College,Jabalpur
+                Global Engineering College, Jabalpur
               </a>{' '}
               as a student and at
               <a href="https://github.com/alok-urmaliya">Sumati.io</a> /
-              <a href="https://thehotspring.com"> The Hotspring</a> as a Full-stack software
-              developer.
+              <a href="https://thehotspring.com"> The Hotspring</a> as a Full-stack developer.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

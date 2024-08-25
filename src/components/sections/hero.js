@@ -65,9 +65,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a final year engineering student pursuing B.Tech at Global Engineering College,Jabalpur.
-        Currently, I’m focused on implementing new features and solving issues for accessible,
-        human-centered softwares at <a href="https://thehotspring.com/">The Hotspring</a>.
+        I'm a Junior Full-stack developer, with a passion for developing solutions that drive
+        impact. Currently, I’m focused on implementing new features and solving issues for
+        accessible, human-centered softwares at{' '}
+        <a href="https://thehotspring.com/">The Hotspring</a>.
       </p>
     </>
   );
