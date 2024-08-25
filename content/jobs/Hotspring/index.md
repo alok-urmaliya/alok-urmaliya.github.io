@@ -1,5 +1,5 @@
 ---
-date: '06-06-2024'
+date: '2023-06-06'
 title: 'Jr. Full-stack developer'
 company: 'The Hotspring'
 location: 'Remote'

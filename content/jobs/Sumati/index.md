@@ -1,7 +1,7 @@
 ---
 date: '2023-03-10'
 title: 'Full-stack developer Intern'
-company: 'Sumati.io'
+company: 'Sumati'
 location: 'Jabalpur,MP'
 range: 'March 2023 - December 2023'
 url: ''
