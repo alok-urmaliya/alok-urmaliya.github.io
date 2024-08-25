@@ -1,9 +1,9 @@
 ---
-date: '18-12-2023'
+date: '06-06-2024'
 title: 'Jr. Full-stack developer'
 company: 'The Hotspring'
 location: 'Remote'
-range: 'June 2023 - Present'
+range: 'June 2024 - Present'
 url: 'https://thehotspring.com/'
 ---
 

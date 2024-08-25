@@ -3,7 +3,7 @@ date: '18-12-2023'
 title: 'Full-stack developer intern'
 company: 'The Hotspring'
 location: 'Remote'
-range: 'December 2023 - June 2023'
+range: 'December 2023 - June 2024'
 url: 'https://thehotspring.com/'
 ---
 
