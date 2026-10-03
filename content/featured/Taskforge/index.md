@@ -1,5 +1,5 @@
 ---
-date: '2026-09-01'
+date: '2026-06-01'
 title: 'TaskForge'
 cover: './taskforge.png'
 github: 'https://github.com/alok-urmaliya/taskforge'
@@ -8,6 +8,7 @@ tech:
   - Python
   - Django
   - GraphQL
+  - Open AI
   - React
   - TypeScript
   - PostgreSQL

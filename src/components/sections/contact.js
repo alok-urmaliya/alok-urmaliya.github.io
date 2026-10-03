@@ -60,14 +60,16 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm a final year engineering student constantly looking for new opportunities to test my
-        skills my inbox is always open.Whether you have a question or just want to say hi, I’ll try
-        my best to get back to you!
+        I'm currently looking for my next opportunity as a Full-Stack developer.
+        If you have a role that might be a good fit, or just want to
+        talk about something I’ve built, my inbox is always open.
       </p>
+
       <a
         className="email-link"
         target="_blank"
-        href="https://mail.google.com/mail/?view=cm&to=alokurmaliya0123@gmail.com" rel="noreferrer">
+        href="https://mail.google.com/mail/?view=cm&to=alokurmaliya0123@gmail.com"
+        rel="noreferrer">
         Say Hello
       </a>
     </StyledContactSection>
