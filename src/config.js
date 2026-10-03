@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/alok-urmaliya-298753212',
+      url: 'https://www.linkedin.com/in/alok-urmaliya',
     },
     {
       name: 'Instagram',
@@ -17,10 +17,6 @@ module.exports = {
     {
       name: 'Leetcode',
       url: 'https://leetcode.com/Alok7089/',
-    },
-    {
-      name: 'Telegram',
-      url: 'https://telegram.me/alok_urmaliya',
     },
   ],
 

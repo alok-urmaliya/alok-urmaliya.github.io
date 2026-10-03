@@ -7,7 +7,8 @@ range: 'December 2023 - June 2024'
 url: 'https://thehotspring.com/'
 ---
 
-- Working under the guidance of Sr. Full stack developers in order to learn and implement solutions.
-- Actively contributing to software solutions using Python, Django, Typescript, React, and GraphQL.
-- Collaborating remotely with global team members.
-- Implementing graphql queries, mutations and, subscriptions for efficient data management.
+- Contributed to production features using Python, Django, GraphQL, React, and TypeScript.
+- Built GraphQL queries, mutations, and subscriptions for client and internal workflows.
+- Worked across frontend and backend code to implement and debug product features.
+- Worked with senior developers to understand the existing codebase, development practices, and production workflows.
+- Collaborated remotely with developers and product team members across different time zones.

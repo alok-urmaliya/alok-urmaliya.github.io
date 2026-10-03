@@ -61,14 +61,14 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Alok Urmaliya.</h2>;
-  const three = <h3 className="big-heading">I build applications.</h3>;
+  const three = <h3 className="big-heading">I build web applications.</h3>;
   const four = (
     <>
       <p>
-        I'm a Junior Full-stack developer, with a passion for developing solutions that drive
-        impact. Currently, I’m focused on implementing new features and solving issues for
-        accessible, human-centered softwares at{' '}
-        <a href="https://thehotspring.com/">The Hotspring</a>.
+        I'm a full-stack developer with around 3 years of experience building
+        production applications with Python, Django, React, TypeScript, and AWS.
+        I enjoy solving complex problems and building things that are simple and
+        useful.
       </p>
     </>
   );
@@ -81,6 +81,7 @@ const Hero = () => {
       Get in touch!
     </a>
   );
+
 
   const items = [one, two, three, four, five];
 
